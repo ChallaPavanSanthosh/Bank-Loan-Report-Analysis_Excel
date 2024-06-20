@@ -40,11 +40,10 @@ The summary dashboard provides an at-a-glance view of the overall loan performan
 - Average interest rate
 - Average DTI ratio
 
-It also highlights the proportion of good loans to bad loans, along with detailed metrics for each category.
+### Summary Screenshot
+<img src="Summary Dashboard.png" alt="Alt text" title="Title">
 
-## Summary Screenshot 
-<img src= "Summary Dashboard.jpg" alt="Alt text" title="Title">
-<img src="tableau work.png" alt="Alt text" title="Title">
+It also highlights the proportion of good loans to bad loans, along with detailed metrics for each category.
 
 ### Overview
 
@@ -56,7 +55,8 @@ The overview dashboard dives deeper into the data, showing:
 - Total loan applications by purpose
 - Total loan applications by home ownership status
 
-![Overview Dashboard](https://github.com/ChallaPavanSanthosh/Bank-Loan-Report-Analysis_Excel/blob/main/Overview%20Dashboard.jpg)
+ ### Overview Screenshot
+ <img src="Overview Dashboard.png" alt="Alt text" title="Title">
 
 ## Analysis Details
 

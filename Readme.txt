@@ -42,7 +42,8 @@ The summary dashboard provides an at-a-glance view of the overall loan performan
 
 It also highlights the proportion of good loans to bad loans, along with detailed metrics for each category.
 
-![Summary Dashboard](https://user-images.githubusercontent.com/link-to-your-summary-dashboard-image.png)
+## Summary Screenshot 
+<img src="Summary Dashboard.jpg" alt="Alt text" title="Title">
 
 ### Overview
 

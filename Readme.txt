@@ -43,8 +43,8 @@ The summary dashboard provides an at-a-glance view of the overall loan performan
 It also highlights the proportion of good loans to bad loans, along with detailed metrics for each category.
 
 ## Summary Screenshot 
-![Summary Dashboard](https://github.com/ChallaPavanSanthosh/Bank-Loan-Report-Analysis_Excel/blob/main/Summary%20Dashboard.jpg)
-<img src="Summary Dashboard.jpg" alt="Alt text" title="Title">
+<img src= "Summary Dashboard.jpg" alt="Alt text" title="Title">
+<img src="tableau work.png" alt="Alt text" title="Title">
 
 ### Overview
 
